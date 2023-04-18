@@ -1,0 +1,15 @@
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\net6.0\EmployeeSalaryCalculator.exe
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\net6.0\EmployeeSalaryCalculator.deps.json
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\net6.0\EmployeeSalaryCalculator.runtimeconfig.json
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\net6.0\EmployeeSalaryCalculator.dll
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\net6.0\EmployeeSalaryCalculator.pdb
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\EmployeeSalaryCalculator.csproj.AssemblyReference.cache
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\EmployeeSalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\EmployeeSalaryCalculator.AssemblyInfoInputs.cache
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\EmployeeSalaryCalculator.AssemblyInfo.cs
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\EmployeeSalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\EmployeeSalaryCalculator.dll
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\refint\EmployeeSalaryCalculator.dll
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\EmployeeSalaryCalculator.pdb
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\EmployeeSalaryCalculator.genruntimeconfig.cache
+C:\Users\Miller\Documents\IDEMIA\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\net6.0\ref\EmployeeSalaryCalculator.dll
